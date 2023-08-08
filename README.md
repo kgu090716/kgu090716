@@ -12,7 +12,7 @@ Nice to meet you!😄
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgu090716)](https://solved.ac/kgu090716)![mazandi profile](http://mazandi.herokuapp.com/api?handle=kgu090716&theme=dark)
 
-## 📞contact📞
+## 📞Contact📞
 
 <img src="https://img.shields.io/badge/kgu090716@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
