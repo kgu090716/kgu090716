@@ -30,6 +30,4 @@ Nice to meet you!😄
 
 ## ✍️Studying✍️
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&height=150&color=0:5433FF,50:20BDFF,100:A5FECB)
